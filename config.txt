@@ -1,0 +1,6 @@
+#enter x dimension of game board
+1000
+#enter y dimension of game board
+440
+#enter difficulty level on sigle player game (hard/medium/easy)
+easy
